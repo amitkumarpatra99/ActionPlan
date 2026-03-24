@@ -1,4 +1,4 @@
-# 📝 Action Planner - React Todo App 
+# 📝 Action Planner - To-do List 
 
 A modern, responsive **Action Planner** built using **React (Vite) and Tailwind CSS**. This application helps you manage daily tasks efficiently with a stunning glassmorphism UI, due date reminders, and local storage persistence.
 
